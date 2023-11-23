@@ -1,0 +1,58 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(missile.jpeg);
+}
+
+.container {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ADEFD1FF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(90deg, #ff9933,#ffffff,#138808);
+ 
+                          
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: white;
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  align-items: center;
+  filter: brightness(100%);
+  margin-bottom: 30px;
+}
+
+article {
+  margin-bottom: 20px;
+  text-align: justify;
+
+
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: white;
+}
+h2
+{
+  text-align: center;
+}
+a{
+  text-align: center;
+}
